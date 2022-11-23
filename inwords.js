@@ -140,4 +140,4 @@ function inwords(num) {
   return `${whole_str} Rupees ${decimal_str}`;
 }
 
-export default inwords;
+module.exports=inwords;
